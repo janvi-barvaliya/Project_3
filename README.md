@@ -1,5 +1,5 @@
 # Project 3 Responsive website 🖥️
-I have created this game in Python language using the pygame library. Flappy Bird is a simple game where the player controls a bird and tries to navigate it through a series of pipes without colliding with them. In this game, I have incorporated various sound effects like wing flapping, collision, and point scoring.
+"📱 Experience a website that adapts flawlessly to any device! My fully responsive design ensures optimal user experiences on smartphones, tablets, and desktops, offering a seamless browsing journey for all users. Say goodbye to pinching, zooming, and scrolling frustrations.✨"
 
 ## Features ✨
 - navbar
